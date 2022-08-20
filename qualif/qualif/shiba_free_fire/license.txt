@@ -1,0 +1,11 @@
+Model Information:
+* title:	Shiba free fire
+* source:	https://sketchfab.com/3d-models/shiba-free-fire-b8fe9b3387d2486aa1291265438cf2f3
+* author:	Bernardo  Lucas (https://sketchfab.com/BernardoLucas)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Shiba free fire" (https://sketchfab.com/3d-models/shiba-free-fire-b8fe9b3387d2486aa1291265438cf2f3) by Bernardo  Lucas (https://sketchfab.com/BernardoLucas) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
